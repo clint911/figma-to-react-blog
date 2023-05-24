@@ -1,0 +1,108 @@
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:22)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:28)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:22)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:28)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:22)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:28)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:22)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:28)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:22)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:28)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}
+TypeError: Failed to parse URL from importedData
+    at Object.fetch (node:internal/deps/undici/undici:11457:11)
+    at async getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:20)
+    at async file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:18 {
+  [cause]: TypeError [ERR_INVALID_URL]: Invalid URL
+      at new NodeError (node:internal/errors:399:5)
+      at new URL (node:internal/url:560:13)
+      at new Request (node:internal/deps/undici/undici:7041:25)
+      at fetch2 (node:internal/deps/undici/undici:10598:25)
+      at Object.fetch (node:internal/deps/undici/undici:11455:18)
+      at fetch (node:internal/process/pre_execution:230:25)
+      at getArticleData (file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:6:26)
+      at file:///Users/user/Clinton/learnProjects/reactLearn/figma-to-react/src/components/test.js:21:24
+      at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+    input: 'importedData',
+    code: 'ERR_INVALID_URL'
+  }
+}

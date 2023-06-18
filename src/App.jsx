@@ -10,6 +10,7 @@ import Tutorials from "./pages/Tutorials";
 import DailyDigest from "./pages/DailyDigest";
 import Home from "./pages/Home";
 import SingleArticle from "./pages/SingleArticle";
+import AdminPage from "./pages/Admin";
 export default function App() {
   return (
     <div className="App">
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/DesignTools" element={<DesignTools />} />
         <Route path="/Tutorials" element={<Tutorials />} />
         <Route path="/SingleArticle" element={<SingleArticle />} />
+        <Route path="/AdminPage" element={<AdminPage />} />
       </Routes>
       {/*Note the text will change depending on route, will fix that way later*/}
       {/*

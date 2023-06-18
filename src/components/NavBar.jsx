@@ -21,7 +21,7 @@ export default function NavBar() {
           <NavLink className="nav-link" to="/">H</NavLink>
           <NavLink className="nav-link" to="/DesignTools">Design Tools</NavLink>
           <NavLink className="nav-link" to="/Tutorials">Tutorials</NavLink>
-
+          <NavLink className="nav-link" to="/AdminPage">AdminPage</NavLink>
           <button className="Subscribe" type="submit">Subscribe</button>
         </div>
       </nav>
